@@ -87,7 +87,7 @@ Valida o fluxo completo de adicionar um produto ao carrinho e prosseguir para o 
 
 ## 👨‍🎓 Autor
 
-**Nicolas Prado**
+**Nicolas Prado** **&&** **Luis Eduardo**
 
 Trabalho desenvolvido para fins acadêmicos.
 
